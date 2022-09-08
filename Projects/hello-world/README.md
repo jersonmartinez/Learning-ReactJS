@@ -1,6 +1,6 @@
 ## Creating hello-world Project
 
-If you try to create a repository with the name `Hello-World`, It presents this problem, because doesn't allow capital letters.
+If you try to create a repository with the name `Hello-World`, It presents this problem, because doesn't allow capital letters and special characters.
 
 ❌
 
@@ -71,4 +71,26 @@ Note that the development build is not optimized.
 To create a production build, use npm run build.
 
 webpack compiled successfully
+```
+
+Launch first chanages in `src\App.js
+
+```JS
+import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Hello World!
+        </p>
+      </header>
+    </div>
+  );
+}
+
+export default App;
 ```

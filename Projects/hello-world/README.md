@@ -73,7 +73,7 @@ To create a production build, use npm run build.
 webpack compiled successfully
 ```
 
-Launch first chanages in `src\App.js
+Launch first chanages in `src\App.js`.
 
 ```JS
 import logo from './logo.svg';

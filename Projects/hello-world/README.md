@@ -94,3 +94,7 @@ function App() {
 
 export default App;
 ```
+
+[http://localhost:3000/](http://localhost:3000/)
+
+![imagen](https://user-images.githubusercontent.com/7296281/189244390-3db0dc17-f0c1-4fa3-9de7-05d8c1caf30c.png)

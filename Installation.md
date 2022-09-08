@@ -1,6 +1,11 @@
+- [Installation](#installation)
+  - [Node JS](#node-js)
+- [Install create-react-app](#install-create-react-app)
+- [Start Project](#start-project)
+
 ## Installation
 
-First, install NodeJS. In my case, I'm use Windows OS, but in GNU/Linux is not complicated too.
+First, install NodeJS. In my case, I'm using Windows OS, but in GNU/Linux is not complicated too.
 
 ### Node JS
 

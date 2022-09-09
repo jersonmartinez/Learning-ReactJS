@@ -11,4 +11,4 @@ if want to learn how to install Node JS, NPM, create-react-app and other tools, 
 | Project | Description |
 |---|---|
 | [hello-world](https://github.com/jersonmartinez/Learning-ReactJS/tree/main/Projects/hello-world)  | First simple project.  |
-| `...`  | `...`  |
+| [greetings](https://github.com/jersonmartinez/Learning-ReactJS/tree/main/Projects/greetings)  | Implementing functions.  |

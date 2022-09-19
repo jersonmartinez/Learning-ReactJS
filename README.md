@@ -2,7 +2,7 @@
   - [Installation](#installation)
 
 # Learning-ReactJS
-This repository is to learn y practice React JS.
+This repository is to learn and practice React JS.
 
 ## Installation
 
